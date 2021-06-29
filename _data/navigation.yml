@@ -34,8 +34,8 @@ docs-en:
 
   - title:      Third Year Courses
     children:
-      # - title:  AE 305
-      #   url:        /course_reviews/third_year/ae-305.html
+      - title:  AE 305
+        url:        /course_reviews/third_year/ae-305.html
       - title:  AE 308
         url:        /course_reviews/third_year/ae-308.html
       # - title:  AE 312
@@ -44,14 +44,14 @@ docs-en:
       #   url:        /course_reviews/third_year/ae-314.html
       # - title:  AE 316
       #   url:        /course_reviews/third_year/ae-316.html
-      # - title:  AE 326
-      #   url:        /course_reviews/third_year/ae-326.html
+      - title:  AE 326
+        url:        /course_reviews/third_year/ae-326.html
       - title:  AE 330
         url:        /course_reviews/third_year/ae-330.html
       - title:  AE 332
         url:        /course_reviews/third_year/ae-332.html
-      # - title:  AE 333
-      #   url:        /course_reviews/third_year/ae-333.html
+      - title:  AE 333
+        url:        /course_reviews/third_year/ae-333.html
       # - title:  AE 427
       #   url:        /course_reviews/third_year/ae-427.html
 
