@@ -1,5 +1,9 @@
 header:
   - titles:
+      en      : &EN       Grad School Profiles
+    url: /grad_profiles.html
+
+  - titles:
       en      : &EN       Course Reviews
     url: /course_reviews.html
 
@@ -260,3 +264,34 @@ other-en:
     children:
       - title:  Prof. Krishnendhu Sinha
         url:        /project_reviews/other/propulsion/ksinha.html
+
+
+toc:
+  - title:      Grad School Profiles
+    children:
+      - title:  Sakshi Dayal
+        url:        /grad_profiles/sakshi-dayal.html
+      - title:  Tarang Jain
+        url:        /grad_profiles/tarang-jain.html
+      - title:  Aaron John Sabu
+        url:        /grad_profiles/aaron-john-sabu.html
+      - title:  Malhar Prajapati
+        url:        /grad_profiles/malhar-prajapati.html
+      - title:  Maharshi Pathak
+        url:        /grad_profiles/maharshi-pathak.html
+      - title:  Pujan Biswas
+        url:        /grad_profiles/pujan-biswas.html
+      - title:  Apoorv Som
+        url:        /grad_profiles/apoorv-som.html       
+      - title:  Jinay Patel
+        url:        /grad_profiles/jinay-patel.html
+      - title:  Karan Suresh Jagdale
+        url:        /grad_profiles/karan-suresh-jagdale.html
+      - title:  Maulik Bhatt
+        url:        /grad_profiles/maulik-bhatt.html
+      - title:  Naman Aggarwal
+        url:        /grad_profiles/naman-aggarwal.html
+      - title:  Karthik Anantharaman
+        url:        /grad_profiles/karthik-anantharaman.html
+      - title: Useful Links
+        url:        /grad_profiles/useful-links.html
