@@ -83,6 +83,8 @@ docs-en:
         url:        /course_reviews/department_elective/ae-755.html
       - title:  AE 759
         url:        /course_reviews/department_elective/ae-759.html
+      - title:  MM 445
+        url:        /course_reviews/department_elective/mm-445.html
 
   - title:      Institute Electives
     children:
@@ -112,6 +114,8 @@ docs-en:
         url:        /course_reviews/minor/cse/course_list.html
       - title:  Electrical Engineering
         url:        /course_reviews/minor/elec/course_list.html
+      - title:  Data Science
+        url:        /course_reviews/minor/ds/course_list.html
 
 
 
