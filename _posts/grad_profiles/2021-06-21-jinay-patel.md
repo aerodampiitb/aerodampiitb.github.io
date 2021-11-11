@@ -29,9 +29,7 @@ GRE was waived off due to Covid for Fall 2021 Applications.
 103
 #### CV/Resume:
 
-<center>
-	<embed src="http://docs.google.com/gview?a=v&pid=explorer&chrome=false&api=true&embedded=true&srcid=10KQFeYd0k03GFen7v7f3Wh1KQwejaYlI&hl=en&embedded=true" width="700" height="500">
-</center>
+<iframe src="https://drive.google.com/file/d/10KQFeYd0k03GFen7v7f3Wh1KQwejaYlI/preview" width="700" height="500" allow="autoplay"></iframe>
 
 #### How many universities did you apply to?: 
 8

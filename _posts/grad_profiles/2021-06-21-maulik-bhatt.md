@@ -31,9 +31,7 @@ NA
 107
 #### CV/Resume:
 
-<center>
-	<embed src="http://docs.google.com/gview?a=v&pid=explorer&chrome=false&api=true&embedded=true&srcid=12iSdy-d3elG4BYWLMX4ez7dTyiyzFES_&hl=en&embedded=true" width="700" height="500">
-</center>
+<iframe src="https://drive.google.com/file/d/12iSdy-d3elG4BYWLMX4ez7dTyiyzFES_/preview" width="700" height="500" allow="autoplay"></iframe>
 
 #### How many universities did you apply to?: 
 9
