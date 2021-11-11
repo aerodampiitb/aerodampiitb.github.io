@@ -36,9 +36,7 @@ Education Futures, KC Mahindra, JN Tata, Narotam Sekhsaria Scholarships
 
 #### CV/Resume:
 
-<center>
-	<embed src="http://docs.google.com/gview?a=v&pid=explorer&chrome=false&api=true&embedded=true&srcid=15mIbZgk1vTjkyEUJj2BPAsZ6IK-f4N8X&hl=en&embedded=true" width="700" height="500">
-</center>
+<iframe src="https://drive.google.com/file/d/15mIbZgk1vTjkyEUJj2BPAsZ6IK-f4N8X/preview" width="700" height="500" allow="autoplay"></iframe>
 
 #### How many universities did you apply to?: 
 More than 10

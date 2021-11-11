@@ -29,9 +29,7 @@ Knight Hennessy, MEXT
 106 (R - 29, L - 28, S - 25, W - 24)
 #### CV/Resume:
 
-<center>
-	<embed src="http://docs.google.com/gview?a=v&pid=explorer&chrome=false&api=true&embedded=true&srcid=15b-8q7WCIsx-V-R2CROgy0z2pZO0WBmT&hl=en&embedded=true" width="700" height="500">
-</center>
+<iframe src="https://drive.google.com/file/d/15b-8q7WCIsx-V-R2CROgy0z2pZO0WBmT/preview" width="700" height="500" allow="autoplay"></iframe>
 
 #### How many universities did you apply to?: 
 5

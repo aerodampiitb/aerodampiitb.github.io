@@ -29,9 +29,7 @@ University scholarships, Narotam Sekhsariya
 110 (29: Reading and listening, 26: writing and speaking)
 #### CV/Resume:
 
-<center>
-	<embed src="http://docs.google.com/gview?a=v&pid=explorer&chrome=false&api=true&embedded=true&srcid=1V5RxoQv-Z9efkx0VN_mmm7WfBKPK-4GP&hl=en&embedded=true" width="700" height="500">
-</center>
+<iframe src="https://drive.google.com/file/d/1V5RxoQv-Z9efkx0VN_mmm7WfBKPK-4GP/preview" width="700" height="500" allow="autoplay"></iframe>
 
 #### How many universities did you apply to?: 
 7
