@@ -40,7 +40,7 @@ permalink: /aboutUs/dampTeam.html
     <div class="card">
       <a href="/aboutUs/aeroCouncil.html">
         <div class="card__image card--clickable">
-          <img class="image" src="\Image\Council\Gourav.jpg" />
+          <img class="image" src="\Image\Council\Kaustav.jpg" />
           <div class="overlay overlay--bottom">
             <p>imgk1208@gmail.com</p>
           </div>

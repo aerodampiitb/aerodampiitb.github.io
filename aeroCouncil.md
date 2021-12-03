@@ -127,7 +127,7 @@ permalink: /aboutUs/aeroCouncil.html
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4 style=" font-weight: normal">Basireddy Vineeth Kumar Reddy</h4>
+          <h4 style=" font-weight: normal">Basireddy Vineeth Reddy</h4>
           <h4>Media Nominee</h4>
         </div>
       </div>
@@ -196,7 +196,7 @@ permalink: /aboutUs/aeroCouncil.html
       <div class="card__content">
         <div class="card__header">
           <h4 style=" font-weight: normal">Nishkarsh Bansal</h4>
-          <h4>Department Alumni Secretary</h4>
+          <h4>Dept. Alumni Secretary</h4>
         </div>
       </div>
     </div>
@@ -205,7 +205,7 @@ permalink: /aboutUs/aeroCouncil.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\Council\Vibha.jpg" />
+        <img class="image" src="\Image\Council\Vibha.jpeg" />
         <div class="overlay overlay--bottom">
           <p>karnadvibha@gmail.com</p>
         </div>
