@@ -27,7 +27,7 @@ permalink: /aboutUs/aeroCouncil.html
 <div class="grid">
   <div class="cell cell--12 cell--md-6 cell--lg-6 content p-2">
     <div class="card">
-      <a href="/aboutUs/dampTeam.html">
+      <a href="dampTeam.html">
         <div class="card__image card--clickable">
           <img class="image" src="\Image\DAMP\Vishnu.jpg" />
           <div class="overlay overlay--bottom">
@@ -45,7 +45,7 @@ permalink: /aboutUs/aeroCouncil.html
   </div>
   <div class="cell cell--12 cell--md-6 cell--lg-6 content p-2">
     <div class="card card-emphasize">
-      <a href="/aboutUs/aeroCouncil.html">
+      <a href="#">
         <div class="card__image card--clickable">
           <img class="image" src="\Image\Council\Kaustav.jpg" />
           <div class="overlay overlay--bottom">
