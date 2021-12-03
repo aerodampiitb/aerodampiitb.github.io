@@ -1,6 +1,6 @@
 ---
 layout: article
-title: About Us
+title: Aero Team
 key: page-about
 ---
 ## DAMP Coordinator: Amal S Sebastian
