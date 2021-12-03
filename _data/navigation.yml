@@ -347,3 +347,10 @@ placement-en:
         url:        /placement_reviews/engineeringandtechnology/drdo.html
       - title:  ZERO
         url:        /placement_reviews/engineeringandtechnology/drdo.html
+
+  - title:      Others
+    children:
+      - title:  Indian Railways
+        url:        /placement_reviews/others/indianrailways.html
+      - title:  Indian Railways
+        url:        /placement_reviews/others/indianrailways.html
