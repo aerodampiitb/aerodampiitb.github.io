@@ -2,7 +2,7 @@
 layout: article
 title: Aero Team
 key: page-about
-permalink: /aboutUs/dampTeam.html
+permalink: /aboutUs/aeroCouncil.html
 ---
 
 <!-- ## DAMP Coordinator: Amal S Sebastian -->
@@ -15,11 +15,18 @@ permalink: /aboutUs/dampTeam.html
     padding: 0;
     line-height: 25px;
   }
+
+  .card-emphasize
+  {
+    border: 5px solid #ff7b50;
+  }
 </style>
+
+
 
 <div class="grid">
   <div class="cell cell--12 cell--md-6 cell--lg-6 content p-2">
-    <div class="card" style="border: 5px solid #ff7b50">
+    <div class="card">
       <a href="/aboutUs/dampTeam.html">
         <div class="card__image card--clickable">
           <img class="image" src="\Image\DAMP\Vishnu.jpg" />
@@ -37,7 +44,7 @@ permalink: /aboutUs/dampTeam.html
     </div>
   </div>
   <div class="cell cell--12 cell--md-6 cell--lg-6 content p-2">
-    <div class="card">
+    <div class="card card-emphasize">
       <a href="/aboutUs/aeroCouncil.html">
         <div class="card__image card--clickable">
           <img class="image" src="\Image\Council\Gourav.jpg" />
@@ -56,20 +63,21 @@ permalink: /aboutUs/dampTeam.html
   </div>
 </div>
 
-## DAMP Team
+## Aero Council
 
 <div class="grid">
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Navjit.jpg" />
+        <img class="image" src="\Image\Council\Gourav.jpg" />
         <div class="overlay overlay--bottom">
-          <p>navjitdebnath5@gmail.com</p>
+          <p>imgk1208@gmail.com</p>
         </div>
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4>Navjit Debnath</h4>
+          <h4 style=" font-weight: normal">Gourav Kumar</h4>
+          <h4>Web Nominee</h4>
         </div>
       </div>
     </div>
@@ -78,14 +86,15 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Anjali.jpg" />
+        <img class="image" src="\Image\Council\Gourav.jpg" />
         <div class="overlay overlay--bottom">
-          <p>anjali6rwt@gmail.com</p>
+          <p>imgk1208@gmail.com</p>
         </div>
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4>Anjali Rawat</h4>
+          <h4 style=" font-weight: normal">Gourav Kumar</h4>
+          <h4>Web Nominee</h4>
         </div>
       </div>
     </div>
@@ -94,47 +103,15 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Aaryan.jpeg" />
+        <img class="image" src="\Image\Council\Gourav.jpg" />
         <div class="overlay overlay--bottom">
-          <p>aaryan.ayush2000@gmail.com</p>
+          <p>imgk1208@gmail.com</p>
         </div>
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4>Aaryan Jaiswal</h4>
-        </div>
-      </div>
-    </div>
-
-  </div>
-  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
-    <div class="card">
-      <div class="card__image">
-        <img class="image" src="\Image\DAMP\Amrutha.jpg" />
-        <div class="overlay overlay--bottom">
-          <p>180010058@iitb.ac.in</p>
-        </div>
-      </div>
-      <div class="card__content">
-        <div class="card__header">
-          <h4>Amrutha Lakshmi</h4>
-        </div>
-      </div>
-    </div>
-  </div>
-
-
-  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
-    <div class="card">
-      <div class="card__image">
-        <img class="image" src="\Image\DAMP\Atharva.jpg" />
-        <div class="overlay overlay--bottom">
-          <p>atharvamete12@gmail.com</p>
-        </div>
-      </div>
-      <div class="card__content">
-        <div class="card__header">
-          <h4>Atharva Mete</h4>
+          <h4 style=" font-weight: normal">Gourav Kumar</h4>
+          <h4>Web Nominee</h4>
         </div>
       </div>
     </div>
@@ -143,14 +120,15 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Avinas.jpg" />
+        <img class="image" src="\Image\Council\Gourav.jpg" />
         <div class="overlay overlay--bottom">
-          <p>avinash.arun10@gmail.com</p>
+          <p>imgk1208@gmail.com</p>
         </div>
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4>Avinash Arun</h4>
+          <h4 style=" font-weight: normal">Gourav Kumar</h4>
+          <h4>Web Nominee</h4>
         </div>
       </div>
     </div>
@@ -159,14 +137,15 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Faisal.jpg" />
+        <img class="image" src="\Image\Council\Gourav.jpg" />
         <div class="overlay overlay--bottom">
-          <p>aziz.faisal247@gmail.com</p>
+          <p>imgk1208@gmail.com</p>
         </div>
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4>Faisal Aziz</h4>
+          <h4 style=" font-weight: normal">Gourav Kumar</h4>
+          <h4>Web Nominee</h4>
         </div>
       </div>
     </div>
@@ -175,14 +154,15 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Harshil.jpeg" />
+        <img class="image" src="\Image\Council\Gourav.jpg" />
         <div class="overlay overlay--bottom">
-          <p>190010030@iitb.ac.in</p>
+          <p>imgk1208@gmail.com</p>
         </div>
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4>Harshil Naik</h4>
+          <h4 style=" font-weight: normal">Gourav Kumar</h4>
+          <h4>Web Nominee</h4>
         </div>
       </div>
     </div>
@@ -191,14 +171,15 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Khushi.jpeg" />
+        <img class="image" src="\Image\Council\Gourav.jpg" />
         <div class="overlay overlay--bottom">
-          <p>gosalia.khushi@gmail.com</p>
+          <p>imgk1208@gmail.com</p>
         </div>
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4>Khushi Gosalia</h4>
+          <h4 style=" font-weight: normal">Gourav Kumar</h4>
+          <h4>Web Nominee</h4>
         </div>
       </div>
     </div>
@@ -207,14 +188,15 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Milind.jpg" />
+        <img class="image" src="\Image\Council\Gourav.jpg" />
         <div class="overlay overlay--bottom">
-          <p>180010031@iitb.ac.in</p>
+          <p>imgk1208@gmail.com</p>
         </div>
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4>Milind Kharwade</h4>
+          <h4 style=" font-weight: normal">Gourav Kumar</h4>
+          <h4>Web Nominee</h4>
         </div>
       </div>
     </div>
@@ -223,32 +205,15 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Mukesh.png" />
+        <img class="image" src="\Image\Council\Gourav.jpg" />
         <div class="overlay overlay--bottom">
-          <p>mukeshgollen10@gmail.com</p>
+          <p>imgk1208@gmail.com</p>
         </div>
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4>Mukesh Kumar</h4>
-        </div>
-      </div>
-    </div>
-  </div>
-
-
-
-  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
-    <div class="card">
-      <div class="card__image">
-        <img class="image" src="\Image\DAMP\Porwal.jpg" />
-        <div class="overlay overlay--bottom">
-          <p>pp14ush@gmail.com</p>
-        </div>
-      </div>
-      <div class="card__content">
-        <div class="card__header">
-          <h4>Piyush Porwal</h4>
+          <h4 style=" font-weight: normal">Gourav Kumar</h4>
+          <h4>Web Nominee</h4>
         </div>
       </div>
     </div>
@@ -257,14 +222,15 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Ronit.jpg" />
+        <img class="image" src="\Image\Council\Gourav.jpg" />
         <div class="overlay overlay--bottom">
-          <p>ronitrshukla37@gmail.com</p>
+          <p>imgk1208@gmail.com</p>
         </div>
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4>Ronit Shukla</h4>
+          <h4 style=" font-weight: normal">Gourav Kumar</h4>
+          <h4>Web Nominee</h4>
         </div>
       </div>
     </div>
@@ -273,14 +239,15 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Sargun.jpg" />
+        <img class="image" src="\Image\Council\Gourav.jpg" />
         <div class="overlay overlay--bottom">
-          <p>sargunsohal9@gmail.com</p>
+          <p>imgk1208@gmail.com</p>
         </div>
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4>Sargun Sohal</h4>
+          <h4 style=" font-weight: normal">Gourav Kumar</h4>
+          <h4>Web Nominee</h4>
         </div>
       </div>
     </div>
@@ -289,62 +256,15 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Sarraf.jpg" />
+        <img class="image" src="\Image\Council\Gourav.jpg" />
         <div class="overlay overlay--bottom">
-          <p>ayushsarraf8@gmail.com</p>
+          <p>imgk1208@gmail.com</p>
         </div>
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4>Ayush Sarraf</h4>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
-    <div class="card">
-      <div class="card__image">
-        <img class="image" src="\Image\DAMP\Shubham.jpg" />
-        <div class="overlay overlay--bottom">
-          <p>shubh.am.sharma11kt@gmail.com</p>
-        </div>
-      </div>
-      <div class="card__content">
-        <div class="card__header">
-          <h4>Shubham Sen</h4>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
-    <div class="card">
-      <div class="card__image">
-        <img class="image" src="\Image\DAMP\Vignesh.jpeg" />
-        <div class="overlay overlay--bottom">
-          <p>vignesh.anand.1503@gmail.com</p>
-        </div>
-      </div>
-      <div class="card__content">
-        <div class="card__header">
-          <h4>Vignesh Anand</h4>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
-    <div class="card">
-      <div class="card__image">
-        <img class="image" src="\Image\DAMP\Yashika.jpg" />
-        <div class="overlay overlay--bottom">
-          <p>yashikasinghal13@gmail.com</p>
-        </div>
-      </div>
-      <div class="card__content">
-        <div class="card__header">
-          <h4>Yashika Singhal</h4>
+          <h4 style=" font-weight: normal">Gourav Kumar</h4>
+          <h4>Web Nominee</h4>
         </div>
       </div>
     </div>
