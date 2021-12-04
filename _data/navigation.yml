@@ -12,8 +12,12 @@ header:
     url: /project_reviews.html
 
   - titles:
-      en      : &EN       About Us
-    url: /about_us.html
+      en      : &EN       Placement
+    url: /placement.html
+
+  - titles:
+      en      : &EN       Aero Team
+    url: /aboutUs/dampTeam.html
 
 
 
@@ -299,3 +303,54 @@ toc:
         url:        /grad_profiles/karthik-anantharaman.html
       - title: Useful Links
         url:        /grad_profiles/useful-links.html
+
+
+placement-en:
+  - title:      Analytics
+    children:
+      - title:  Microsoft
+        url:        /placement_reviews/analytics/microsoft.html
+      - title:  Microsoft
+        url:        /placement_reviews/analytics/microsoft.html
+
+  - title:      Consult
+    children:
+      - title:  BCG
+        url:        /placement_reviews/consulting/boston.html
+      - title:  BCG
+        url:        /placement_reviews/consulting/boston.html
+
+  - title:      IT-Software
+    children:
+      - title:  Google
+        url:        /placement_reviews/itandsoftware/google.html
+      - title:  Google
+        url:        /placement_reviews/itandsoftware/google.html
+
+  - title:      Finance
+    children:
+      - title:  ICICI
+        url:        /placement_reviews/finance/icici.html
+      - title:  ICICI
+        url:        /placement_reviews/finance/icici.html
+
+  - title:      Research and Development
+    children:
+      - title:  HiLabs Inc.
+        url:        /placement_reviews/rnd/hilabsinc.html
+      - title:  HiLabs Inc.
+        url:        /placement_reviews/rnd/hilabsinc.html
+
+  - title:      Engineering And Technology
+    children:
+      - title:  ZERO
+        url:        /placement_reviews/engineeringandtechnology/drdo.html
+      - title:  ZERO
+        url:        /placement_reviews/engineeringandtechnology/drdo.html
+
+  - title:      Others
+    children:
+      - title:  Indian Railways
+        url:        /placement_reviews/others/indianrailways.html
+      - title:  Indian Railways
+        url:        /placement_reviews/others/indianrailways.html
