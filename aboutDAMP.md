@@ -207,7 +207,7 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Milind.jpg" />
+        <img class="image" src="\Image\DAMP\Milind.JPG" />
         <div class="overlay overlay--bottom">
           <p>180010031@iitb.ac.in</p>
         </div>
@@ -289,7 +289,7 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Sarraf.jpg" />
+        <img class="image" src="\Image\DAMP\sarraf.jpg" />
         <div class="overlay overlay--bottom">
           <p>ayushsarraf8@gmail.com</p>
         </div>
