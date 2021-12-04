@@ -64,7 +64,7 @@ Feel free to reach out to us at [dampc@aero.iitb.ac.in](mailto:dampc@aero.iitb.a
 <div style="text-align: center" >
 <div style="color:#0000FF" >
 
-<b>Created and Maintained by: Amal S Sebastian, Harshil Naik and Pranjal Gupta</b>
+<b>Created and Maintained by: AeA Web Nominees and DAMP Team</b>
 
 </div>
 </div>
