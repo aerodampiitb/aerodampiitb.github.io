@@ -42,13 +42,13 @@ permalink: /aboutUs/dampTeam.html
         <div class="card__image card--clickable">
           <img class="image" src="\Image\Council\Kaustav.jpg" />
           <div class="overlay overlay--bottom">
-            <p>imgk1208@gmail.com</p>
+            <p>kaustavkishor09@gmail.com</p>
           </div>
         </div>
       </a>
       <div class="card__content">
         <div class="card__header">
-          <h4 style=" font-weight: normal">Gourav Kumar</h4>
+          <h4 style=" font-weight: normal">Kaustav Kishor</h4>
           <h4>Department General Secretary</h4>
         </div>
       </div>
