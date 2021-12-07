@@ -353,14 +353,14 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="\Image\DAMP\Yashika.jpg" />
+        <img class="image" src="\Image\DAMP\Soham.jpg" />
         <div class="overlay overlay--bottom">
-          <p>yashikasinghal13@gmail.com</p>
+          <p>soham.phanse.iitb@gmail.com</p>
         </div>
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4>Yashika Singhal</h4>
+          <h4>Soham Shirish Phanse</h4>
         </div>
       </div>
     </div>
