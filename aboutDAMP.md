@@ -117,7 +117,7 @@ permalink: /aboutUs/dampTeam.html
       </div>
       <div class="card__content">
         <div class="card__header">
-          <h4>Vadladi Amrutha Lakshmi</h4>
+          <h4>Vadladi. Amrutha Lakshmi</h4>
         </div>
       </div>
     </div>
