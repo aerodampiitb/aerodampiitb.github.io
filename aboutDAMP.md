@@ -366,6 +366,22 @@ permalink: /aboutUs/dampTeam.html
     </div>
   </div>
   
+  <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
+    <div class="card">
+      <div class="card__image">
+        <img class="image" src="\Image\DAMP\Pranjal.jpg" />
+        <div class="overlay overlay--bottom">
+          <p>pranjalgupta2507@gmail.com</p>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__header">
+          <h4>Pranjal Gupta</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+  
   
 
 
