@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Placement
+title: Placements
 sidebar:
   nav: placement-en
 permalink: /placement.html
