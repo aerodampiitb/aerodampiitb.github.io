@@ -7,13 +7,13 @@ header:
       en      : &EN       Course Reviews
     url: /course_reviews.html
 
-  - titles:
-      en      : &EN       Project Reviews
-    url: /project_reviews.html
+#   - titles:
+#       en      : &EN       Project Reviews
+#     url: /project_reviews.html
 
-  - titles:
-      en      : &EN       Placements
-    url: /placement.html
+#   - titles:
+#       en      : &EN       Placements
+#     url: /placement.html
 
   - titles:
       en      : &EN       Aero Team
