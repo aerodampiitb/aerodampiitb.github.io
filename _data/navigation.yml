@@ -12,7 +12,7 @@ header:
     url: /project_reviews.html
 
   - titles:
-      en      : &EN       Placements
+      en      : &EN       Place
     url: /placement.html
 
   - titles:
