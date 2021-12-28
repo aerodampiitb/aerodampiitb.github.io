@@ -2,8 +2,8 @@
 layout: article
 title: Getting things Started
 sidebar:
-  nav: getting_started-en
-permalink: /getting_started.html
+  nav: getting_started_resources-en
+permalink: /getting_started_resources.html
 ---
 
 
