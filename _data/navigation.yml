@@ -18,10 +18,6 @@ header:
   - titles:
       en      : &EN       Aero Team
     url: /aboutUs/dampTeam.html
-    
- - titles:
-      en      : &EN       Getting Started
-    url: /getting_started_resources.html
 
 
 
