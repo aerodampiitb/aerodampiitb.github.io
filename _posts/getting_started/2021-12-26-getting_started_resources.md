@@ -2,7 +2,7 @@
 layout: article
 title: Getting things Started
 sidebar:
-  nav: docs-en
+  nav: getting_started-en
 permalink: /getting_started.html
 ---
 
