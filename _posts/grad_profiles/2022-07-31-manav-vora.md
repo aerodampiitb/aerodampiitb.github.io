@@ -36,7 +36,7 @@ Graduate Research Assistantship
 
 #### CV/Resume:
 
-<iframe src="https://drive.google.com/file/d/1yJOgzyRx6VPuaChuo5dQ46MwOP-NprlM/view?usp=sharing/preview" width="700" height="500" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1yJOgzyRx6VPuaChuo5dQ46MwOP-NprlM/preview" width="700" height="500" allow="autoplay"></iframe>
 
 #### How many universities did you apply to?: 
 7
