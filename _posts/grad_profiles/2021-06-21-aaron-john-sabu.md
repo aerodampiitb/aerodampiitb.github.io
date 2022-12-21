@@ -1,11 +1,11 @@
 ---
 layout: article
-title: Aaron John Saber
+title: Aaron John Sabu
 <!-- aside:
   toc: true -->
 sidebar:
   nav: toc
-categories: aaron-john-sabuman
+categories: aaron-john-sabu
 permalink: /grad_profiles/:categories
 ---
 
