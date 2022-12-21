@@ -5,7 +5,7 @@ title: Aaron John Saber
   toc: true -->
 sidebar:
   nav: toc
-categories: aaron-john-sabu
+categories: aaron-john-sabuman
 permalink: /grad_profiles/:categories
 ---
 
